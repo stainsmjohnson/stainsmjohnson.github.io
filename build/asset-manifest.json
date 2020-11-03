@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/active_plus/static/css/main.8b8e05c4.chunk.css",
-    "main.js": "/active_plus/static/js/main.db2b517a.chunk.js",
-    "main.js.map": "/active_plus/static/js/main.db2b517a.chunk.js.map",
+    "main.css": "/active_plus/static/css/main.603f8748.chunk.css",
+    "main.js": "/active_plus/static/js/main.30045e97.chunk.js",
+    "main.js.map": "/active_plus/static/js/main.30045e97.chunk.js.map",
     "runtime-main.js": "/active_plus/static/js/runtime-main.2f55638a.js",
     "runtime-main.js.map": "/active_plus/static/js/runtime-main.2f55638a.js.map",
     "static/js/2.d0fcc4b2.chunk.js": "/active_plus/static/js/2.d0fcc4b2.chunk.js",
     "static/js/2.d0fcc4b2.chunk.js.map": "/active_plus/static/js/2.d0fcc4b2.chunk.js.map",
     "index.html": "/active_plus/index.html",
-    "static/css/main.8b8e05c4.chunk.css.map": "/active_plus/static/css/main.8b8e05c4.chunk.css.map",
+    "static/css/main.603f8748.chunk.css.map": "/active_plus/static/css/main.603f8748.chunk.css.map",
     "static/js/2.d0fcc4b2.chunk.js.LICENSE.txt": "/active_plus/static/js/2.d0fcc4b2.chunk.js.LICENSE.txt",
     "static/media/be_active.3aa9abff.png": "/active_plus/static/media/be_active.3aa9abff.png",
     "static/media/be_positive.6fed5a08.png": "/active_plus/static/media/be_positive.6fed5a08.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.2f55638a.js",
     "static/js/2.d0fcc4b2.chunk.js",
-    "static/css/main.8b8e05c4.chunk.css",
-    "static/js/main.db2b517a.chunk.js"
+    "static/css/main.603f8748.chunk.css",
+    "static/js/main.30045e97.chunk.js"
   ]
 }

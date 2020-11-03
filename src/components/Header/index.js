@@ -6,7 +6,11 @@ const Header = () => {
     return (
         <div id="header">
             <div>
-                <span className="logo-name">Active plus Physical Therapy</span>
+                <span className="logo-name">Active plus Physical Therapy, PC.</span>
+                <div className="address-left">
+                    <span>30900 Ford Road, Suite-G</span>
+                    <span>Garden City, MI-48135</span> 
+                </div>
             </div>
             <div style={{
                 flex:1, 
@@ -15,12 +19,11 @@ const Header = () => {
                 flexDirection: 'column',
                 justifyContent:'space-around'
                 }}>
-                <div className="social-link-container">
-                    <Facebook className="icon-style"/>
-                    <Instagram className="icon-style"/>
-                    <Twitter className="icon-style"/>
-                </div>
                 <div>
+                    <div className="icon-text-container">
+                        <Facebook className="icon-style"/>
+                        <span>facebook</span>
+                    </div>
                     <div className="icon-text-container">
                         <Phone className="icon-style"/>
                         <span>734-306-2503</span>

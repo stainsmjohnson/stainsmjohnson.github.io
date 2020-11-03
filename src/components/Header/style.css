@@ -9,16 +9,25 @@
 }
 
 #header .logo-name {
-  font-size: 26px;
+  font-size: 34px;
   color: #f7f7f7;
-  font-weight: 900;
-  margin-bottom: 20px;
+  font-weight: bolder;
+  margin-bottom: 50px;
   display: block;
 }
 #header .social-link-container {
   display: flex;
   /* width: 40%; */
   justify-content: space-between;
+}
+
+#header .address-left {
+  display: flex;
+  flex-direction: column;
+  line-height: 2;
+  color: #f7f7f7;
+  font-weight: 800;
+  margin-bottom: 20px;
 }
 
 .icon-style {

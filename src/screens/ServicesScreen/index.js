@@ -2,17 +2,16 @@ import React from 'react'
 import './style.css'
 
 import bells_palsy from '../../assets/services/bells-palsy.jpg'
-import bppv_vertigo from '../../assets/services/bppv_vertigo.jpeg'
-import head_ache from '../../assets/services/head_ache.jpeg'
-import joint_pain from '../../assets/services/joint_pain.jpg'
+import bppv_vertigo from '../../assets/services/bppv_vertigo.png'
+import head_ache from '../../assets/services/head_ache.png'
+import joint_pain from '../../assets/services/joint_pain.png'
 import paranthesis from '../../assets/services/paranthesis.jpg'
 import post_operation from '../../assets/services/post_operation.png'
-import rehab from '../../assets/services/rehab.jpg'
+import rehab from '../../assets/services/rehab.png'
 import sports_injuries from '../../assets/services/sports_injuries.jpg'
 import sprain from '../../assets/services/sprain.jpg'
-import toricollis from '../../assets/services/toricollis.jpeg'
 import toricolliss from '../../assets/services/toricollis.jpg'
-import urinary_infection from '../../assets/services/urinary_infection.jpeg'
+import urinary_infection from '../../assets/services/urinary_infection.png'
 
 const HomeScreen = () => {
     const services = [

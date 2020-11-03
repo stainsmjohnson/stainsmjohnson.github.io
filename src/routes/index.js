@@ -21,7 +21,7 @@ const Router = () => {
       <Route path="/contact" component={ContactScreen}/>
       <Redirect to="/"/>
     </Switch>
-    <Footer/>
+    {/* <Footer/> */}
     </div>
   );
 }

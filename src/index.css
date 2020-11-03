@@ -22,7 +22,9 @@ code {
 *::after,
 *::before {
   box-sizing: border-box;
-  font-family: "Courier New", Courier, monospace;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
 }
 
 /* colors
