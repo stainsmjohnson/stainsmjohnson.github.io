@@ -51,7 +51,7 @@ const HomeScreen = () => {
         <div>
             <Carosel/>
             <div className="slogan-section">
-                <div className="slogan-heading">OUR SLOGANS</div>
+                {/* <div className="slogan-heading">OUR SLOGANS</div> */}
                 <div className="slogan-container">
                 {SLOGANS.map(slogan => (
                     <div className="slogan">

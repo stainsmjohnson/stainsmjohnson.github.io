@@ -8,7 +8,13 @@ const Header = () => {
             <div>
                 <span className="logo-name">Active plus Physical Therapy</span>
             </div>
-            <div style={{width: '40%', display:'flex', alignItems:'flex-end', flexDirection: 'column',justifyContent:'space-around'}}>
+            <div style={{
+                flex:1, 
+                display:'flex', 
+                alignItems:'flex-end', 
+                flexDirection: 'column',
+                justifyContent:'space-around'
+                }}>
                 <div className="social-link-container">
                     <Facebook className="icon-style"/>
                     <Instagram className="icon-style"/>
