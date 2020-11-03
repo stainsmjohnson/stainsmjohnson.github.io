@@ -34,7 +34,7 @@ const HomeScreen = () => {
             <div className="services-container">
                 {services.map(service => (
                     <div key={service.id} className="service-item">
-                        <img src={service.icon}/>
+                        <img src={service.icon} alt={service.title}/>
                         <span>{service.title}</span>
                     </div>
                 ))}

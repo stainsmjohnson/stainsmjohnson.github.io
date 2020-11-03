@@ -54,7 +54,7 @@ const HomeScreen = () => {
                 <div className="slogan-container">
                 {SLOGANS.map(slogan => (
                     <div className="slogan">
-                        <img src={slogan.icon}/>
+                        <img src={slogan.icon} alt={slogan.title}/>
                         <span>{slogan.title}</span>
                     </div>
                     ))}

@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import {Facebook, Instagram, Twitter, Phone,Print as Fax, Email} from '@material-ui/icons';
+import {Facebook, Phone,Print as Fax, Email} from '@material-ui/icons';
 
 const Header = () => {
     return (

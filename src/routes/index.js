@@ -1,4 +1,4 @@
-import { BrowserRouter, Redirect, Route, Switch } from 'react-router-dom'
+import {  Redirect, Route, Switch } from 'react-router-dom'
 //screens
 import HomeScreen from '../screens/HomeScreen'
 import ContactScreen from '../screens/ContactScreen'
@@ -6,7 +6,6 @@ import ServicesScreen from '../screens/ServicesScreen'
 import AboutScreen from '../screens/AboutScreen'
 //components
 import Header from '../components/Header'
-import Footer from '../components/Footer'
 import Nav from '../components/Nav'
 
 const Router = () => {
@@ -21,7 +20,6 @@ const Router = () => {
       <Route path="/contact" component={ContactScreen}/>
       <Redirect to="/"/>
     </Switch>
-    {/* <Footer/> */}
     </div>
   );
 }

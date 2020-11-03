@@ -6,7 +6,7 @@ import Image3 from '../../assets/image-3.jpg'
 
 const Carosel = () => {
     const [currentImage, setCurrentImage] = React.useState(1)
-    const [images, setImages] = React.useState([
+    const images =[
         {
             src:Image1, 
             alt:"Winter",
@@ -22,7 +22,7 @@ const Carosel = () => {
             alt:"Night", 
             text: "Take care of your body It's the only place you have to live."
         },
-   ])
+   ]
 
 /**
  * Switch header carousel to next image (swipe right)
