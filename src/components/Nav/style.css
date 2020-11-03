@@ -1,0 +1,28 @@
+#nav {
+  display: flex;
+  width: 100%;
+  background-color: #f7f7f7;
+}
+
+#nav .link {
+  padding: 20px;
+  background-color: #f7f7f7;
+  color: #0e467d;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s all ease-in;
+}
+#nav .link-active {
+  padding: 20px;
+  color: #f7f7f7;
+  background-color: #0e467d;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s all ease-in;
+}
+#nav .link:hover {
+  padding: 20px;
+  transform: scale(1.2);
+  color: #f7f7f7;
+  background-color: #0e467d;
+}

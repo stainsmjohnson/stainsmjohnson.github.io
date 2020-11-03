@@ -1,0 +1,14 @@
+#footer {
+  background-color: #f7f7f7;
+  color: #0e467d;
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#footer > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

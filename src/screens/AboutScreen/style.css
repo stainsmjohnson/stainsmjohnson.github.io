@@ -1,0 +1,18 @@
+.para {
+  padding: 20px;
+  text-indent: 30%;
+  line-height: 2;
+}
+.about-heading {
+  color: #0e467d;
+  padding: 20px;
+}
+.about-side-heading {
+  color: #0e467d;
+  padding: 20px;
+}
+
+.about-list {
+  list-style: outside;
+  line-height: 2;
+}

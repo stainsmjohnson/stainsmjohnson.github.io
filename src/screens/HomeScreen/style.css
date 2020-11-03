@@ -1,0 +1,50 @@
+.slogan-section {
+  margin-top: 50px;
+}
+.slogan-heading {
+  font-size: 24px;
+  font-weight: 900;
+  color: #0e467d;
+  text-align: center;
+}
+
+.slogan-container {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.slogan {
+  width: 160px;
+  height: 270px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #f7f7f7;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  transition: 0.2s all ease-in-out;
+  user-select: none;
+}
+.slogan:hover {
+  transform: scale(1.05);
+}
+
+.slogan img {
+  object-fit: contain;
+  width: 100%;
+  height: 200px;
+  transition: 0.2s all ease-in-out;
+}
+.slogan span {
+  font-size: 17px;
+  font-weight: 800;
+  color: #0e467d;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
