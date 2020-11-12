@@ -18,23 +18,105 @@
 }
 .service-item {
   width: 250px;
-  height: 200px;
+  height: 250px;
   position: relative;
   margin: 20px;
+  border-radius: 500px;
+  overflow: hidden;
+  box-shadow: 1px 1px 10px 5px rgba(192, 192, 192, 0.53);
 }
 
 .service-item > img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transform: rotateZ(-150deg);
+  opacity: 0;
 }
+.animate > .service-item > img {
+  transform: rotateZ(0deg) !important;
+  opacity: 1;
+}
+.animate > .service-item > span {
+  top: 50%;
+}
+
 .service-item > span {
   position: absolute;
-  top: 50%;
+  top: -50%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #f7f7f760;
   color: #0e467d;
   font-weight: bolder;
   font-size: 18px;
+  transition: all 1s ease-in-out;
+}
+
+/* each image delay */
+.img-to-animate0 {
+  transition: all 0.5s ease-in-out 0s;
+}
+.img-to-animate0 + span {
+  transition: all 1.5s ease-in-out 0s;
+}
+.img-to-animate1 {
+  transition: all 0.5s ease-in-out 0.4s;
+}
+.img-to-animate1 + span {
+  transition: all 1.5s ease-in-out 0.4s;
+}
+.img-to-animate2 {
+  transition: all 0.5s ease-in-out 0.8s;
+}
+.img-to-animate2 + span {
+  transition: all 1.5s ease-in-out 0.8s;
+}
+.img-to-animate3 {
+  transition: all 0.5s ease-in-out 1.2s;
+}
+.img-to-animate3 + span {
+  transition: all 1.5s ease-in-out 1.2s;
+}
+.img-to-animate4 {
+  transition: all 0.5s ease-in-out 1.6s;
+}
+.img-to-animate4 + span {
+  transition: all 1.5s ease-in-out 1.6s;
+}
+.img-to-animate5 {
+  transition: all 0.5s ease-in-out 2s;
+}
+.img-to-animate5 + span {
+  transition: all 1.5s ease-in-out 2s;
+}
+.img-to-animate6 {
+  transition: all 0.5s ease-in-out 2.4s;
+}
+.img-to-animate6 + span {
+  transition: all 1.5s ease-in-out 2.4s;
+}
+.img-to-animate7 {
+  transition: all 0.5s ease-in-out 2.8s;
+}
+.img-to-animate7 + span {
+  transition: all 1.5s ease-in-out 2.8s;
+}
+.img-to-animate8 {
+  transition: all 0.5s ease-in-out 3.2s;
+}
+.img-to-animate8 + span {
+  transition: all 1.5s ease-in-out 3.2s;
+}
+.img-to-animate9 {
+  transition: all 0.5s ease-in-out 3.6s;
+}
+.img-to-animate9 + span {
+  transition: all 1.5s ease-in-out 3.6s;
+}
+.img-to-animate10 {
+  transition: all 0.5s ease-in-out 4s;
+}
+.img-to-animate10 + span {
+  transition: all 1.5s ease-in-out 4s;
 }

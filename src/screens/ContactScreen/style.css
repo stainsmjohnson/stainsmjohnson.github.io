@@ -9,3 +9,12 @@
   font-weight: bolder;
   font-size: 18px;
 }
+
+.link-style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link-style > span {
+  margin-left: 20px;
+}

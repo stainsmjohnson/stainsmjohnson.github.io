@@ -21,8 +21,10 @@ const Header = () => {
                 }}>
                 <div>
                     <div className="icon-text-container">
-                        <Facebook className="icon-style"/>
-                        <span>facebook</span>
+                        <a className="link-style header-link" target="_blank" href="https://www.facebook.com/karthy30900/">
+                            <Facebook className="icon-style"/>
+                            <span>facebook.com/karthy30900</span>
+                        </a>
                     </div>
                     <div className="icon-text-container">
                         <Phone className="icon-style"/>
