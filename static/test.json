@@ -1,1 +1,308 @@
-{}
+[
+    {
+      heading: 'Virat Banners',
+      section: [
+        {
+          heading: 'Health Insurance',
+          sectionItem: [
+            {
+              title: 'Health - Only 7 days waiting period',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_7days.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_7days.png',
+            },
+            {
+              title: "Health - Don't stress, Relax",
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_Relax.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_Relax.png',
+            },
+            {
+              title: 'Save Tax with Health Insurance',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Save_Tax_VK.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Save_Tax_VK.png',
+            },
+            {
+              title: 'Health - One Pager',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_One_Pager.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_One_Pager.png',
+            },
+            {
+              title: 'Digit Health Care Plus',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Digit%20health%20care%20poster%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Digit%20health%20care%20poster%20(1).png',
+            },
+            {
+              title: 'Digit Health Care Plus Benefits ',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Health%20Care%20Plus%20Policy%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Health%20Care%20Plus%20Policy%20(1).png',
+            },
+            {
+              title: 'Zone Based Co-Payment',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Health%20Care%20Policy%20Creative%20(Zone%20Wise)-04%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Health%20Care%20Policy%20Creative%20(Zone%20Wise)-04%20(1).png',
+            },
+            {
+              title: 'The Right Health Insurance',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/HealthTipstogetHealthInsurance%20(1).jpg',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/HealthTipstogetHealthInsurance%20(1).jpg',
+            },
+            {
+              title: 'Cashless Claims',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/HealthCashlessClaims-(Changes)-01%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/HealthCashlessClaims-(Changes)-01%20(1).png',
+            },
+          ],
+        },
+        {
+          heading: 'Motor Insurance',
+          sectionItem: [
+            {
+              title: 'Car Insurance - 5 Star',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Car-5-star.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Car-5-star.png',
+            },
+            {
+              title: 'Bike Insurance - Switch to 5 Star Insurance',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Bike-5-Star-.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Bike-5-Star-.png',
+            },
+            {
+              title: 'Motor - How Cashless Claims Work',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/POSP_Motor_Cashless.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/POSP_Motor_Cashless.png',
+            },
+            {
+              title: 'Types of Motor Insurance',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/types%20of%20motor%20insurance%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/types%20of%20motor%20insurance%20(1).png',
+            },
+            {
+              title: 'Reimbursement Claims',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Reimbursement%20Claims%201-04%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Reimbursement%20Claims%201-04%20(1).png',
+            },
+            {
+              title: 'Super Easy Claims ',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Car-Claims-Garages-(Changes-02%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Car-Claims-Garages-(Changes-02%20(1).png',
+            },
+            {
+              title: 'Your Ride is Our Responsibility',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/2%20-%20wheeler%20poster-01%20(1).jpg',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/2%20-%20wheeler%20poster-01%20(1).jpg',
+            },
+          ],
+        },
+        {
+          heading: 'Property Insurance ',
+          sectionItem: [
+            {
+              title: 'Digit Home Insurance',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Home%20Insurance%20Whatsapp%20poster%20for%20partners.jpg',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/poster/Home%20Insurance%20Whatsapp%20poster%20for%20partners.jpg',
+            },
+          ],
+        },
+        {
+          heading: 'Others',
+          sectionItem: [
+            {
+              title: 'Switch to the Company trusted by 2 Cr+ Customers',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Switch to Digit-5 Star.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Switch to Digit-5 Star.png',
+            },
+            {
+              title: 'Digit WhatsApp Services',
+              type: 'image',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Just%20in-Whatsapp%201-04%20(1).png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/assets/img/Just%20in-Whatsapp%201-04%20(1).png',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      heading: 'Training Modules',
+      section: [
+        {
+          heading: 'Motor Insurance ',
+          sectionItem: [
+            {
+              title: 'All about Digit Motor Insurance',
+              type: 'video',
+              videoid: '4z3SOgK7MzU',
+              thumbnail: 'https://www.youtube.com/watch?v=4z3SOgK7MzU',
+              linkPath: 'https://www.youtube.com/watch?v=4z3SOgK7MzU',
+            },
+            {
+              title: 'Motor Insurance: Quote Creation',
+              type: 'video',
+              videoid: 'cqFG8t92XLo',
+              thumbnail: 'https://www.youtube.com/watch?v=cqFG8t92XLo',
+              linkPath: 'https://www.youtube.com/watch?v=cqFG8t92XLo',
+            },
+            {
+              title: 'Motor Insurance USPs ',
+              type: 'video',
+              videoid: 'nfbPYfGngpY',
+              thumbnail: 'https://www.youtube.com/watch?v=nfbPYfGngpY',
+              linkPath: 'https://www.youtube.com/watch?v=nfbPYfGngpY',
+            },
+            {
+              title: 'Self and Manual Pre-Inspection  ',
+              type: 'video',
+              videoid: '8fBepgrtvVY',
+              thumbnail: 'https://www.youtube.com/watch?v=8fBepgrtvVY',
+              linkPath: 'https://www.youtube.com/watch?v=8fBepgrtvVY',
+            },
+            {
+              title: 'Pre-Inspection Process  ',
+              type: 'video',
+              videoid: 'Pe6AezspdO0',
+              thumbnail: 'https://www.youtube.com/watch?v=Pe6AezspdO0',
+              linkPath: 'https://www.youtube.com/watch?v=Pe6AezspdO0',
+            },
+            {
+              title: 'Claims Process',
+              type: 'video',
+              videoid: 'tsVj52st0nE',
+              thumbnail: 'https://www.youtube.com/watch?v=tsVj52st0nE',
+              linkPath: 'https://www.youtube.com/watch?v=tsVj52st0nE',
+            },
+            {
+              title: 'How to do Endorsements?  ',
+              type: 'video',
+              videoid: 'HeZzBOkLoqA',
+              thumbnail: 'https://www.youtube.com/watch?v=HeZzBOkLoqA',
+              linkPath: 'https://www.youtube.com/watch?v=HeZzBOkLoqA',
+            },
+            {
+              title: 'Step-by-Step Guide to Motor Claims  ',
+              type: 'video',
+              videoid: 'mKz5vNILRyk',
+              thumbnail: 'https://www.youtube.com/watch?v=mKz5vNILRyk',
+              linkPath: 'https://www.youtube.com/watch?v=mKz5vNILRyk',
+            },
+          ],
+        },
+        {
+          heading: 'Health Insurance ',
+          sectionItem: [
+            {
+              title: 'Digit Health Insurance USPs ',
+              type: 'video',
+              videoid: 'NRRPtHwrFdQ',
+              thumbnail: 'https://www.youtube.com/watch?v=NRRPtHwrFdQ',
+              linkPath: 'https://www.youtube.com/watch?v=NRRPtHwrFdQ',
+            },
+            {
+              title: 'Arogya Sanjeevani Health Insurance  ',
+              type: 'video',
+              videoid: 'StBskUOsPgY',
+              thumbnail: 'https://www.youtube.com/watch?v=StBskUOsPgY',
+              linkPath: 'https://www.youtube.com/watch?v=StBskUOsPgY',
+            },
+            {
+              title: 'Arogya Sanjeevani: Hindi Explanation  ',
+              type: 'video',
+              videoid: 'OpSjzFtEHvY',
+              thumbnail: 'https://www.youtube.com/watch?v=OpSjzFtEHvY',
+              linkPath: 'https://www.youtube.com/watch?v=OpSjzFtEHvY',
+            },
+          ],
+        },
+        {
+          heading: 'Grow Your Business',
+          sectionItem: [
+            {
+              title: 'How to set up a WhatsApp Business Account ',
+              type: 'video',
+              videoid: '2UQyqioCSxU',
+              thumbnail: 'https://www.youtube.com/watch?v=2UQyqioCSxU',
+              linkPath: 'https://www.youtube.com/watch?v=2UQyqioCSxU',
+            },
+            {
+              title: 'Virat Kohli Dancing For a Reason ',
+              type: 'video',
+              videoid: 'eLov9sPZyCI',
+              thumbnail: 'https://www.youtube.com/watch?v=eLov9sPZyCI',
+              linkPath: 'https://www.youtube.com/watch?v=eLov9sPZyCI',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      heading: 'Brochures',
+      section: [
+        {
+          heading: 'Health Insurance',
+          sectionItem: [
+            {
+              title: "Digit's Health Insurance Plans",
+              type: 'pdf',
+              thumbnail:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_Plan_Details.png',
+              linkPath:
+                'https://d2h44aw7l5xdvz.cloudfront.net/partner-app/Health_Plan_Details.pdf',
+            },
+          ],
+        },
+      ],
+    },
+  ]
