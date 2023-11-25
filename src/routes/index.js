@@ -9,6 +9,10 @@ import Header from '../components/Header'
 import Nav from '../components/Nav'
 
 const Router = () => {
+
+  React.useEffect(() => {
+     window.location.href = 'http://localhost:3000/
+  },[])
   return (
     <div id="app-container">
     <Header/>
